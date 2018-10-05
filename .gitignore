@@ -1,0 +1,3 @@
+.chache/**
+/dist/**
+/node_modules/**
